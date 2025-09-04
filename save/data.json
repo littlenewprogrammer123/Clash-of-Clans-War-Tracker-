@@ -1,0 +1,1784 @@
+[
+  {
+    "id": 1756230197490,
+    "name": "*SaHiL* #2YCGCQV2G",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753463494645,
+    "name": "warrior #2J9J2YRPC",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 98
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753463176613,
+    "name": "Empire Pavilhao #2CPVJCQL8",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 98
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753463251542,
+    "name": "warrior #22Q29VP",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 97
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1756230379305,
+    "name": "SignsV8 #LJQQ8PVYP",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1756230925530,
+    "name": "BlingBangBlow! #8UYGQPPQC",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753299931776,
+    "name": "⭐⭐⭐Noob⭐⭐⭐  #P88CQGQLG",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 86
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753803142680,
+    "name": "Deepak #9U9QJRUR",
+    "th": 16,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 85
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753299551529,
+    "name": "S.Faisel.Ali #20L9JGJ00",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 92
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753635708172,
+    "name": "Pavi Tigers  #28CR8R22R",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 97
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 94
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 94
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753301607002,
+    "name": "Deepak #2QL28V9QC",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 99
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 90
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753299458791,
+    "name": "kick #P8RPJ00UC",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 82
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 73
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753301276402,
+    "name": "AKASH SHAH #9RL0JJQ8U",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 78
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 97
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753980867566,
+    "name": "PaneerOP #88R98RYVJ",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 98
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 62
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753300627701,
+    "name": "$$OBI WAN$$  #9QP09V9UU",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 85
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 98
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 75
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753301444788,
+    "name": "IamMithun #2VJQ8Q22C",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 94
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 88
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 74
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753981547978,
+    "name": "sujal #PG92Q0LRP",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 92
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 98
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 98
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 83
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1755366432411,
+    "name": "AYUSH⚡SHUBHAM #9LPJ9JJGR",
+    "th": 16,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 82
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 82
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 81
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 76
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753300999845,
+    "name": "Mr.Reigns(Joel)  #PVRPJ8GVU",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 98
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 99
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 85
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 74
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753463396500,
+    "name": "warrior  #JL9YCYV",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 60
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 79
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 81
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1755190421670,
+    "name": "❤️:karan:❤️ #2JCLLGVL",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 97
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 63
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 88
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1756230646260,
+    "name": "*INSANITY* #802JV2809",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 76
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753300747910,
+    "name": "LENNOX #PYQYVLYCQ",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 82
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 99
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 93
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 70
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753300081759,
+    "name": "Ramprasad™  #2Q092898Y",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 86
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 72
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 89
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 89
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 89
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753299797388,
+    "name": "LNX❤️DBTWIKA #LYJ98L09J",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 90
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 94
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 91
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 69
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 78
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753301370845,
+    "name": "PADMANABH™  #QRPLVG0Q",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 83
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 91
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 64
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 87
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753300539144,
+    "name": "WaL ObiWan  #JC20RRLY",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 92
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 74
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 96
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 93
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 86
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753301101242,
+    "name": "DRX.DAVINDER❤️ #LP8JVYC8",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 78
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 85
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 79
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 87
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 91
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753301949030,
+    "name": "JAAT™  #9UY8QLRR2",
+    "th": 16,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 96
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 50
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 73
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 78
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1756406602868,
+    "name": "yumge #LP899UVP",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 85
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 74
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753351082822,
+    "name": "Tamerix #8J2UCULJP",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 78
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 59
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 79
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 79
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 80
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753299382099,
+    "name": "Arihant #C9PP0CU",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 92
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 82
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 91
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 85
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 73
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 59
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1756230558805,
+    "name": "Pspsps #2JPG8R82R",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 56
+        },
+        "attack2": {
+          "stars": 3,
+          "percent": 100
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753301688049,
+    "name": "Chinmay R #80L2CCQUL",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 53
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 71
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 91
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 69
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 71
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753981255035,
+    "name": "varun dhir #C8C9UVCU",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 78
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 80
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 80
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 95
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 63
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 67
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1755887654298,
+    "name": "lyottoyl #LJ8C0CY0",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 88
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 78
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1755887769689,
+    "name": "amir #Q280VLR99",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 80
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 78
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 85
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 96
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 74
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 77
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1755190329087,
+    "name": "ADITYA RAJ #8L00VY20R",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 75
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 28
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 79
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 76
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 83
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 95
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1755366348334,
+    "name": "IV Kadambis™ #8VGY8V90",
+    "th": 16,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 59
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 55
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 88
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 73
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 91
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 61
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753463683537,
+    "name": "PaLaSH #99R0U8G9C",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 74
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 85
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 1,
+          "percent": 57
+        },
+        "attack2": {
+          "stars": 1,
+          "percent": 90
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 79
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 75
+        },
+        "missed1": false,
+        "missed2": false
+      }
+    ]
+  },
+  {
+    "id": 1753300209901,
+    "name": "€€Obi Wan€€ #9YJ8L8C88",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 3,
+          "percent": 100
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 73
+        },
+        "missed": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 73
+        },
+        "attack2": {
+          "stars": 0,
+          "percent": 0
+        },
+        "missed1": false,
+        "missed2": true
+      }
+    ]
+  },
+  {
+    "id": 1755887485592,
+    "name": "kylie❤️ #LVLOP2JRQ",
+    "th": 17,
+    "baseStrength": "Semi-Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 96
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 99
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 95
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 69
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 0,
+          "percent": 0
+        },
+        "attack2": {
+          "stars": 0,
+          "percent": 0
+        },
+        "missed1": true,
+        "missed2": true
+      }
+    ]
+  },
+  {
+    "id": 1753299707369,
+    "name": "R3D BARON #YJYR090Q",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 83
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 79
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 78
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 74
+        },
+        "missed1": false,
+        "missed2": false
+      },
+      {
+        "attack1": {
+          "stars": 0,
+          "percent": 0
+        },
+        "attack2": {
+          "stars": 0,
+          "percent": 0
+        },
+        "missed1": true,
+        "missed2": true
+      }
+    ]
+  },
+  {
+    "id": 1753301784336,
+    "name": "DK king #8Q2PCYQ8C",
+    "th": 17,
+    "baseStrength": "Rushed",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 2,
+          "percent": 96
+        },
+        "attack2": {
+          "stars": 2,
+          "percent": 81
+        },
+        "missed": false
+      },
+      {
+        "attack1": {
+          "stars": 0,
+          "percent": 0
+        },
+        "attack2": {
+          "stars": 0,
+          "percent": 0
+        },
+        "missed1": true,
+        "missed2": true
+      }
+    ]
+  },
+  {
+    "id": 1756406761039,
+    "name": "baz #22VY80P0",
+    "th": 17,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 0,
+          "percent": 20
+        },
+        "attack2": {
+          "stars": 0,
+          "percent": 0
+        },
+        "missed1": false,
+        "missed2": true
+      }
+    ]
+  },
+  {
+    "id": 1756231193371,
+    "name": "MM I***I #9Q9RQ2JPL",
+    "th": 15,
+    "baseStrength": "Max",
+    "wars": [
+      {
+        "attack1": {
+          "stars": 0,
+          "percent": 0
+        },
+        "attack2": {
+          "stars": 0,
+          "percent": 0
+        },
+        "missed1": true,
+        "missed2": true
+      }
+    ]
+  }
+]

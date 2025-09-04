@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>⚡Team 1⚡</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+      padding-top: 20px;
+    }
+    .table th, .table td {
+      text-align: center;
+      vertical-align: middle;
+    }
+    .war-table {
+      margin-top: 10px;
+    }
+    .collapse-btn {
+      cursor: pointer;
+      font-size: 1.2rem;
+    }
+    .war-rows {
+      background: #f1f1f1;
+      border-radius: 6px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Team 1 War Player Stats</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html">Dashboard</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="leaderboard.html">Leaderboard</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Container -->
+  <div class="container">
+    <h1 class="mb-4 text-center">⚡Team 1⚡ Players</h1>
+    <div class="d-flex justify-content-end mb-3">
+      <button class="btn btn-success" onclick="showAddPlayerForm()">Add Player</button>
+    </div>
+    <div id="playerTableContainer"></div>
+  </div>
+
+  <!-- Player Modal -->
+  <div class="modal" id="playerModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+      <form id="playerForm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Add/Edit Player</h5>
+          </div>
+          <div class="modal-body">
+            <input type="hidden" id="playerId">
+            <div class="mb-3">
+              <label>Name</label>
+              <input type="text" id="playerName" class="form-control" required>
+            </div>
+            <div class="mb-3">
+              <label>Town Hall</label>
+              <input type="number" id="playerTH" class="form-control" required>
+            </div>
+            <div class="mb-3">
+              <label>Base Strength</label>
+              <select id="baseStrength" class="form-select">
+                <option>Max</option>
+                <option>Semi-Max</option>
+                <option>Rushed</option>
+              </select>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-success">Save</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- War Modal -->
+  <div class="modal fade" id="warModal" tabindex="-1" aria-labelledby="warModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <form id="warForm" class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="warModalLabel">Add War</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="mb-3">
+            <label for="stars1" class="form-label">Attack 1 Stars</label>
+            <input type="number" class="form-control" id="stars1" min="0" max="3" required>
+          </div>
+          <div class="mb-3">
+            <label for="percent1" class="form-label">Attack 1 % Destruction</label>
+            <input type="number" class="form-control" id="percent1" min="0" max="100" step="0.1" required>
+          </div>
+          <div class="form-check mb-3">
+            <input class="form-check-input" type="checkbox" id="missed1">
+            <label class="form-check-label" for="missed1">Missed Attack 1</label>
+          </div>
+
+          <div class="mb-3">
+            <label for="stars2" class="form-label">Attack 2 Stars</label>
+            <input type="number" class="form-control" id="stars2" min="0" max="3" required>
+          </div>
+          <div class="mb-3">
+            <label for="percent2" class="form-label">Attack 2 % Destruction</label>
+            <input type="number" class="form-control" id="percent2" min="0" max="100" step="0.1" required>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="missed2">
+            <label class="form-check-label" for="missed2">Missed Attack 2</label>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-primary">Save War</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="tracker.js"></script>
+</body>
+</html>
